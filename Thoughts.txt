@@ -1,0 +1,8 @@
+THOUGHTS
+Random ideas, etc. that I should look at later.
+
+** Future Features **
+
++ Options menu
+	+ Checklist of what things to remove
+
