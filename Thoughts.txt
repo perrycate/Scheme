@@ -6,3 +6,7 @@ Random ideas, etc. that I should look at later.
 + Options menu
 	+ Checklist of what things to remove
 
++ AutoClear
+	~ Used for development when framework caching is an issue (ie angular)
+	+ Allow user to flag a tab, and clear the cache every time it is
+		refreshed?
