@@ -1,6 +1,6 @@
 S.C.H.E.M.E.
 
-Superb Cache Handler Eradicates Mostly Everything
+Shortcutted Cache Handler Eradicates Mostly Everything
 
 Made to remove browser's cache
 
