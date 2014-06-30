@@ -1,6 +1,6 @@
 var clearCache = function() {
 	chrome.browsingData.removeCache({}, function() {
-		alert('cache removed');
+		//alert('cache removed');
 	});
 };
 
